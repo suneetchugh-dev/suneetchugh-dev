@@ -1,6 +1,81 @@
-# 💫 About Me:
-# Hi, I'm **Suneet Chugh** 👋  <br>**B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3 & Blockchain**<br><br>---<br><br>## 🧑‍💻 About Me<br><br>I’m currently pursuing my B.Tech in Computer Science (AI) at **Noida Institute of Engineering and Technology**.  <br>With a strong interest in practical engineering and problem-solving, I enjoy building applications that are useful, scalable, and creatively designed.<br><br>I’m actively developing skills across full-stack development, app development, blockchain concepts, and AI-driven workflows. Curiosity drives my learning, and I constantly explore new technologies that add real value to my work.<br><br>- 🔗 Currently exploring **Web3 & Blockchain**  <br>- 🧠 Practicing **DSA** on HackerRank & LeetCode  <br>- 💬 Experienced in **Web Dev (MERN)** and **App Development**  <br>- ⚙️ Comfortable with **Linux**, scripting (Bash & Batch), and Git/GitHub  <br>- 🚀 Actively attending workshops, bootcamps, and tech events to stay sharp<br><br>---<br><br>## 🚧 What I'm Working On<br><br>### **🔹 MERN Chat Application**<br>A real-time chat application built using:  <br>**MongoDB · Express.js · React.js · Node.js · Socket.io**  <br>Focusing on clean UI, efficient communication handling, and scalable backend structure.<br><br>---<br><br>## 🛠️ Tech Stack & Skills<br><br>### **Languages**<br>Python • Java • C • C++<br><br>### **Web Development**<br>HTML • CSS • JavaScript  <br>React.js • Node.js • Express.js • MongoDB (MERN Stack)<br><br>### **App Development**<br>Cross-platform development experience (details can be added with future projects)<br><br>### **Tools & Technologies**<br>Git • GitHub • Linux (Kernel familiarity) • Kali • Bash/Batch Scripting  <br>Socket.io • REST APIs • Postman<br><br>### **Exploring / Learning**<br>Web3 • Blockchain • Smart Contracts  <br>AI Integration in Applications  <br><br>---<br><br>## 🏆 Certifications<br><br>Certified via:<br><br>- **Udemy**<br>- **Infosys Springboard**<br>- **MongoDB University**<br><br>(Certifications across multiple domains including development, cloud, databases, and more.)<br><br>---<br><br>## 🚀 Activities & Achievements<br><br>- **Qualified internal round of SIH (Smart India Hackathon)** as a **Team Leader**<br>- Regular participation in workshops & bootcamps:<br>  - Azure<br>  - C++<br>  - Java<br>  - Advanced Python<br>  - Generative AI<br>  - and more across emerging tech areas<br><br>---<br><br>## 📫 Connect With Me<br><br>**LinkedIn:** https://www.linkedin.com/in/suneetchugh-dev/  
+# Hi, I'm **Suneet Chugh** 👋  
+**B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3 & Blockchain**
 
+---
+
+## 🧑‍💻 About Me
+
+I’m currently pursuing my B.Tech in Computer Science (AI) at **Noida Institute of Engineering and Technology**.  
+With a strong interest in practical engineering and problem-solving, I enjoy building applications that are useful, scalable, and creatively designed.
+
+I’m actively developing skills across full-stack development, app development, blockchain concepts, and AI-driven workflows. Curiosity drives my learning, and I constantly explore new technologies that add real value to my work.
+
+- 🔗 Currently exploring **Web3 & Blockchain**  
+- 🧠 Practicing **DSA** on HackerRank & LeetCode  
+- 💬 Experienced in **Web Dev (MERN)** and **App Development**  
+- ⚙️ Comfortable with **Linux**, scripting (Bash & Batch), and Git/GitHub  
+- 🚀 Actively attending workshops, bootcamps, and tech events to stay sharp
+
+---
+
+## 🚧 What I'm Working On
+
+### **🔹 MERN Chat Application**
+A real-time chat application built using:  
+**MongoDB · Express.js · React.js · Node.js · Socket.io**  
+Focusing on clean UI, efficient communication handling, and scalable backend structure.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Languages**
+Python • Java • C • C++
+
+### **Web Development**
+HTML • CSS • JavaScript  
+React.js • Node.js • Express.js • MongoDB (MERN Stack)
+
+### **App Development**
+Cross-platform development experience (details can be added with future projects)
+
+### **Tools & Technologies**
+Git • GitHub • Linux (Kernel familiarity) • Kali • Bash/Batch Scripting  
+Socket.io • REST APIs • Postman
+
+### **Exploring / Learning**
+Web3 • Blockchain • Smart Contracts  
+AI Integration in Applications  
+
+---
+
+## 🏆 Certifications
+
+Certified via:
+
+- **Udemy**
+- **Infosys Springboard**
+- **MongoDB University**
+
+(Certifications across multiple domains including development, cloud, databases, and more.)
+
+---
+
+## 🚀 Activities & Achievements
+
+- **Qualified internal round of SIH (Smart India Hackathon)** as a **Team Leader**
+- Regular participation in workshops & bootcamps:
+  - Azure
+  - C++
+  - Java
+  - Advanced Python
+  - Generative AI
+  - and more across emerging tech areas
+
+---
+
+Thanks for visiting my profile!✌🏻 
+Feel free to explore my work and follow along as I build and learn more.✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suneetchugh-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suneetchugh_dev) 
