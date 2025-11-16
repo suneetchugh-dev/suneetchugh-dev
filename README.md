@@ -88,8 +88,6 @@ Certified via:
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to explore my work and follow along as I build and learn more.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suneetchugh-dev &theme=radical)
+Thanks for visiting my profile!✌🏻  
+Feel free to explore my work and follow along as I build and learn more.✨
 
