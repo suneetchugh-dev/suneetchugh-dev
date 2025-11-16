@@ -18,15 +18,6 @@ I’m actively developing skills across full-stack development, app development,
 
 ---
 
-## 🚧 What I'm Working On
-
-### **🔹 MERN Chat Application**
-A real-time chat application built using:  
-**MongoDB · Express.js · React.js · Node.js · Socket.io**  
-Focusing on clean UI, efficient communication handling, and scalable backend structure.
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### **Languages**
