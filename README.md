@@ -40,18 +40,6 @@ AI Integration in Applications
 
 ---
 
-## 🏆 Certifications
-
-Certified via:
-
-- **Udemy**
-- **Infosys Springboard**
-- **MongoDB University**
-
-(Certifications across multiple domains including development, cloud, databases, and more.)
-
----
-
 ## 🚀 Activities & Achievements
 
 - **Qualified internal round of SIH (Smart India Hackathon)** as a **Team Leader**
