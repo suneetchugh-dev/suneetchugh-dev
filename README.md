@@ -2,7 +2,7 @@
 **B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3 & Blockchain**
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA9847&background=4014FF00&width=435&lines=Full+Stack+Web+%26+App+Developer;Exporing+%26+Diving+Into+Web-3;Proficient+With+Linux+%26+Distros;Integrating+AI+Into+Applications;Delivering+End-To-End+Applications)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA9847&background=4014FF00&width=435&lines=Full+Stack+Web+%26+App+Developer;Exporing+%26+Diving+Into+Web-3;Proficient+With+Linux+%26+Distros;Integrating+AI+Into+Applications;Delivering+End-To-End+Applications)
 ---
 
 ## 🧑‍💻 About Me
