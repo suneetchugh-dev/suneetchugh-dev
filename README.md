@@ -13,7 +13,7 @@ With a strong interest in practical engineering and problem-solving, I enjoy bui
 I’m actively developing skills across full-stack development, app development, blockchain concepts, and AI-driven workflows. Curiosity drives my learning, and I constantly explore new technologies that add real value to my work.
 
 - 🔗 Currently exploring **Web3 & Blockchain**  
-- 🪞 Learning To Make **Java Native Apps & Flutter**  
+- 🪞 Learning To Make **Java Native Apps & Flutter Applications**  
 - 🧠 Practicing **DSA** on HackerRank & LeetCode  
 - 💬 Experienced in **Web Dev (MERN)** and **App Development**  
 - ⚙️ Comfortable with **Linux**, Automation scripting (Bash, Batch , Python, VBA), and Git/GitHub  
