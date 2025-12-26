@@ -27,7 +27,7 @@ I’m actively developing skills across full-stack development, app development,
 ## 🛠️ Tech Stack & Skills
 
 ### **Languages**
-Python • Java • C • C++
+Python • Java • C • C# • C++ • Javascript • Rust
 
 ### **Web Development**
 HTML • CSS • JavaScript  
@@ -39,6 +39,10 @@ Cross-platform development experience (details can be added with future projects
 ### **Tools & Technologies**
 Git • GitHub • Linux (Kernel familiarity) • Kali • Bash/Batch Scripting  
 Socket.io • REST APIs • Postman
+
+### **Security Checking & Test Cases**
+•Strong Mitigation Against Attacks Such as XSS, CSRF, SSJI, (With Proper Input Sanitization & Preventive Headers)  
+•Use of tools for test cases & Testing such as :- JEST, Puppeteer, Selenium, Cypress 
 
 ### **Exploring / Learning**
 Web3 • Blockchain • Smart Contracts  
