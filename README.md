@@ -1,4 +1,4 @@
-# Hi, I'm **Suneet Chugh** 👋  
+# Hi, I'm **Suneet Chugh**  
 **B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3, Blockchain & AIML**
 
 ---
