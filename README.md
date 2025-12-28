@@ -1,5 +1,5 @@
 # Hi, I'm **Suneet Chugh** 👋  
-**B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3 & Blockchain**
+**B.Tech CSE (AI) Student | Web & App Developer | Exploring Web3, Blockchain & AIML**
 
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA9847&background=4014FF00&width=435&lines=Full+Stack+Web+%26+App+Developer;Exporing+%26+Diving+Into+Web-3;Proficient+With+Linux+%26+Distros;Integrating+AI+Into+Applications;Delivering+End-To-End+Applications)
@@ -12,7 +12,7 @@ With a strong interest in practical engineering and problem-solving, I enjoy bui
 
 I’m actively developing skills across full-stack development, app development, blockchain concepts, and AI-driven workflows. Curiosity drives my learning, and I constantly explore new technologies that add real value to my work.
 
-- 🔗 Currently exploring **Web3 & Blockchain**  
+- 🔗 Currently exploring **Web3, Blockchain & AIML**  
 - 🪞 Learning To Make **Java Native Apps & Flutter Applications**  
 - 🧠 Practicing **DSA** on HackerRank & LeetCode  
 - 💬 Experienced in **Web Dev (MERN)** and **App Development**  
