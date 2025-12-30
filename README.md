@@ -27,7 +27,7 @@ I’m actively developing skills across full-stack development, app development,
 ## 🛠️ Tech Stack & Skills
 
 ### **Languages**
-Python • Java • C • C# • C++ • Javascript • Rust
+Python • Java • C • C# • C++ • Javascript • Rust • Dart
 
 ### **Web Development**
 HTML • CSS • JavaScript  
