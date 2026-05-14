@@ -21,7 +21,7 @@ I’m actively developing skills across full-stack development, app development,
 
 ---
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=suneetchugh-dev&theme=onedark&hide_border=false)<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=suneetchugh-dev&theme=highcontrast&border_radius=2.5&date_format=j%20M%5B%20Y%5D&card_width=597&card_height=234)](https://git.io/streak-stats)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suneetchugh-dev&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ## 🛠️ Tech Stack & Skills
