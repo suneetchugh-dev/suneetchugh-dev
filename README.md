@@ -25,7 +25,8 @@ I'm currently pursuing a **B.Tech in Computer Science Engineering (Artificial In
 I enjoy building software that is practical, scalable, and designed to solve real-world problems. My primary interests include **Full Stack Development**, **Artificial Intelligence**, **Real-Time Communication Systems**, **Linux**, and **Modern Software Architecture**.
 
 I believe the best way to learn is by building. Whether it's developing full-stack applications, experimenting with AI, or exploring new technologies, I'm always looking for opportunities to improve my skills through hands-on projects and continuous learning.
-
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/suneetchugh-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -39,6 +40,7 @@ I believe the best way to learn is by building. Whether it's developing full-sta
   <a href="https://suneetchughportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+<br>
 </p>
 
 ---
@@ -47,11 +49,6 @@ I believe the best way to learn is by building. Whether it's developing full-sta
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app?user=suneetchugh-dev&theme=highcontrast&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suneetchugh-dev&show_icons=true&theme=highcontrast&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneetchugh-dev&layout=compact&theme=highcontrast&hide_border=true"/>
 </p>
 
 ---
