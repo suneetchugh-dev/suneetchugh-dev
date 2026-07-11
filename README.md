@@ -103,7 +103,7 @@ I believe the best way to learn is by building. Whether it's developing full-sta
 
 <div align="center">
 
-### Driven by curiosity. Refined through experimentation. Evolving with every build. Improving with every commit.
+### Driven by curiosity. Refined through experimentation. Evolving with every commit & build.
 
 <img src="https://komarev.com/ghpvc/?username=suneetchugh-dev&label=PROFILE+VIEWS&style=for-the-badge&color=DA9847" alt="Profile Views"/>
 
