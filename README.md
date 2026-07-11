@@ -22,9 +22,13 @@ Full Stack Developer • AI Enthusiast • Real-Time Systems
 
 I'm currently pursuing a **B.Tech in Computer Science Engineering (Artificial Intelligence)** at **Noida Institute of Engineering and Technology (NIET)**.
 
-I enjoy building software that is practical, scalable, and designed to solve real-world problems. My primary interests include **Full Stack Development**, **Artificial Intelligence**, **Real-Time Communication Systems**, **Linux**, and **Modern Software Architecture**.
+I enjoy building software that is practical, scalable, and designed to solve real-world problems. 
 
-I believe the best way to learn is by building. Whether it's developing full-stack applications, experimenting with AI, or exploring new technologies, I'm always looking for opportunities to improve my skills through hands-on projects and continuous learning.
+My primary interests include **Full Stack Development**, **Artificial Intelligence**, **Real-Time Communication Systems**, **Linux**, and **Modern Software Architecture**.
+
+I believe the best way to learn is by building. Whether it's developing Full-Stack Apps, experimenting with AI and exploring new technologies, 
+
+I'm always looking forward to improve my skills through hands-on projects and continuous learning. ^^
 <br>
 <br>
 <p align="center">
@@ -103,8 +107,7 @@ I believe the best way to learn is by building. Whether it's developing full-sta
 
 <div align="center">
 
-### Driven by curiosity. Refined through experimentation. Evolving with every commit & build.
-
-<img src="https://komarev.com/ghpvc/?username=suneetchugh-dev&label=PROFILE+VIEWS&style=for-the-badge&color=DA9847" alt="Profile Views"/>
+<br>
+### Driven by curiosity. Refined through experimentation. Evolving with every commit & build. ^^
 
 </div>
