@@ -48,7 +48,7 @@ I believe the best way to learn is by building. Whether it's developing full-sta
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app?user=suneetchugh-dev&theme=highcontrast&hide_border=true"/>
+  <img width="53%" src="https://github-readme-streak-stats-eight.vercel.app?user=suneetchugh-dev&theme=highcontrast&hide_border=true"/>
 </p>
 
 ---
