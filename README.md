@@ -99,7 +99,7 @@ I'm always looking forward to improve my skills through hands-on projects and co
 ## Highlights
 
 - Smart India Hackathon (SIH) Internal Round Qualifier — Team Leader
-- 60+ Public GitHub Repositories
+- 50+ Public GitHub Repositories
 - Continuously Learning Through Open Source
 - Regular Participant in Hackathons, Workshops, and Technical Events
 
