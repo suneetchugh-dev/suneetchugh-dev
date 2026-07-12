@@ -41,10 +41,12 @@ I'm always looking forward to improve my skills through hands-on projects and co
   <a href="https://x.com/suneetchugh_dev">
     <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://suneetchughportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://suneetchughportfolio.vercel.app"  align="center" >
+    <br>
+    <br>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://raw.githubusercontent.com/suneetchugh-dev/suneetchugh-dev/refs/heads/main/black_theme.png" alt="Suneet Chugh Portfolio" width="4.5%" height="4.5%"" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   </a>
-<br>
+
 </p>
 
 ---
