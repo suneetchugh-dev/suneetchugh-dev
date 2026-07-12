@@ -31,7 +31,8 @@ I believe the best way to learn is by building. Whether it's developing Full-Sta
 I'm always looking forward to improve my skills through hands-on projects and continuous learning. ^^
 <br>
 <br>
-<p align="center">
+<div align="center">
+  <!-- Social Badges Row -->
   <a href="https://github.com/suneetchugh-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
@@ -41,17 +42,21 @@ I'm always looking forward to improve my skills through hands-on projects and co
   <a href="https://x.com/suneetchugh_dev">
     <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Spacer -->
   <br>
   <br>
-  
-  <a href="https://suneetchughportfolio.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/suneetchugh-dev/suneetchugh-dev/refs/heads/main/black_theme.png" 
-         alt="Suneet Chugh Portfolio" 
-         width="80" 
-         height="80"/>
-  </a>
-</p>
+
+  <!-- Portfolio Icon (Indented Right) -->
+  <div style="display: inline-block; margin-left: 60px;">
+    <a href="https://suneetchughportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/suneetchugh-dev/suneetchugh-dev/refs/heads/main/black_theme.png" 
+           alt="Suneet Chugh Portfolio" 
+           width="80" 
+           height="80"/>
+    </a>
+  </div>
+</div>
 
 ---
 
